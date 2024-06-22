@@ -37,7 +37,7 @@ const Resume = () => {
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl ">
                   FrontEnd Developer
                 </h1>
-                <div>Programming Phatshala 
+                <div>Programming Phatshala <br/>
                   <span className=" text-[.9rem] font-semibold text-black sm:text-base">
                     january 2023 - february  2023
                     </span>
