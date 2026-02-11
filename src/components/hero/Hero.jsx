@@ -7,7 +7,7 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Sanchit_Resume.pdf";
+import resumePDF from "../../assets/Sanchit's_Resume.pdf";
 import Profile from '../../assets/Profile.jpg'
 import { LazyLoadImage } from "react-lazy-load-image-component";
 
